@@ -1,0 +1,10 @@
+body {
+	font-family: sans-serif;
+	background-color: mediumpurple;
+}
+
+.container {
+	background-color: lightgray;
+	color: darkgreen;
+	text-align: center;
+}
